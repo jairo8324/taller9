@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="borrar">clear</string>
+    <string name="app_name">Car Sales</string>
+    <string name="color">color</string>
+    <string name="color_cuatro">green</string>
+    <string name="color_dos">gray</string>
+    <string name="color_tres">blue</string>
+    <string name="color_uno">red</string>
+    <string name="modelo">model</string>
+    <string name="guardar">save</string>
+    <string name="listar_carros">list cars</string>
+    <string name="marca">brand</string>
+    <string name="guardar_registro">saved data</string>
+    <string name="modelo_cinco">2015</string>
+    <string name="modelo_cuatro">2014</string>
+    <string name="modelo_dos">2012</string>
+    <string name="modelo_seis">2016</string>
+    <string name="modelo_siete">2017</string>
+    <string name="modelo_tres">2013</string>
+    <string name="no_carros_registrados">Number of registered cars</string>
+    <string name="modelo_uno">2011</string>
+    <string name="no_carros_registrados_color">No car colored color</string>
+    <string name="no_hay_registro">there is no record</string>
+    <string name="no_carros_registrados_marca">No carred marked</string>
+    <string name="reportes">report</string>
+    <string name="marca_cuatro">MINI COOPER</string>
+    <string name="marca_dos">CHEVROLLET</string>
+    <string name="marca_tres">HONDA</string>
+    <string name="marca_uno">HYUNDAY</string>
+    <string name="precio">price</string>
+    <string name="numero">number</string>
+    <string name="placa">license plate</string>
+    <string name="registrar_carros">register cars</string>
+    <string name="error_placa">Type plaque</string>
+    <string name="error_precio">Type price</string>
+    <string name="registro_carros">car registration</string>
+</resources>

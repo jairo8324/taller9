@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Venta de Carros</string>
+    <string name="registro_carros">Registro de Carros</string>
+    <string name="color">Color</string>
+    <string name="precio">Precio</string>
+    <string name="guardar">Guardar</string>
+    <string name="placa">Placa</string>
+    <string name="modelo">Modelo</string>
+    <string name="borrar">Borrar</string>
+    <string name="marca">Marca</string>
+    <string name="registrar_carros">Registrar Carros</string>
+    <string name="listar_carros">Listar Carros</string>
+    <string name="reportes">Reporte</string>
+  <string-array name="opc_principal">
+        <item>@string/registrar_carros</item>
+        <item>@string/listar_carros</item>
+        <item>@string/reportes</item>
+    </string-array>
+
+    <string name="marca_uno">HYUNDAY</string>
+    <string name="marca_dos">CHEVROLET</string>
+    <string name="marca_tres">HONDA</string>
+    <string name="marca_cuatro">MINI COOPER</string>
+
+    <string-array name="opc_marca">
+        <item>@string/marca_uno</item>
+        <item>@string/marca_dos</item>
+        <item>@string/marca_tres</item>
+        <item>@string/marca_cuatro</item>
+    </string-array>
+
+
+    <string name="modelo_uno">2011</string>
+    <string name="modelo_dos">2012</string>
+    <string name="modelo_tres">2013</string>
+    <string name="modelo_cuatro">2014</string>
+    <string name="modelo_cinco">2015</string>
+    <string name="modelo_seis">2016</string>
+    <string name="modelo_siete">2017</string>
+    <string-array name="opc_modelo">
+
+        <item>@string/modelo_uno</item>
+        <item>@string/modelo_dos</item>
+        <item>@string/modelo_tres</item>
+        <item>@string/modelo_cuatro</item>
+        <item>@string/modelo_cinco</item>
+        <item>@string/modelo_seis</item>
+        <item>@string/modelo_siete</item>
+    </string-array>
+    <string name="color_uno">Rojo</string>
+    <string name="color_dos">Gris</string>
+    <string name="color_tres">Azul</string>
+    <string name="color_cuatro">Verde</string>
+
+    <string-array name="opc_color">
+        <item>@string/color_uno</item>
+        <item>@string/color_dos</item>
+        <item>@string/color_tres</item>
+        <item>@string/color_cuatro</item>
+    </string-array>
+
+    <string name="no_carros_registrados"> No de Carros registredos</string>
+    <string name="no_carros_registrados_marca">No de Carros por marca registrada</string>
+    <string name="no_carros_registrados_color">No de Carros por color registrados</string>
+
+
+    <string-array name="lista_reportes">
+        <item>@string/no_carros_registrados</item>
+        <item>@string/no_carros_registrados_marca</item>
+        <item>@string/no_carros_registrados_color</item>
+
+    </string-array>
+    <string name="error_placa">digite la placa</string>
+    <string name="error_precio">digite el precio</string>
+    <string name="guardar_registro">Dato Guardado</string>
+    <string name="numero">No</string>
+    <string name="no_hay_registro">No hay carros registrados</string>
+
+
+
+</resources>
